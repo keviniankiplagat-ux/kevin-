@@ -1,3 +1,8 @@
+/*
+	Name:kevin ian kiplagat
+Reg No:PA106/G/28724/25
+	Description:program that disply height,idnumber,email and bank balance
+*/
 #include<stdio.h>
 int main(){ 
 	int id_number;
@@ -19,4 +24,5 @@ int main(){
 	printf("email:%s\n", email);
 	return 0;
 }
+
 	
