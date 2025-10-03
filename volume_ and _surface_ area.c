@@ -1,3 +1,8 @@
+/*
+    Name: kevin ian kiplagat
+Reg no:PA106/G/28724/25
+    Description:program that finds volume and surface area of a cylinder
+*/
 #include <stdio.h>
 #include <math.h>  
 int main() {
@@ -18,4 +23,5 @@ int main() {
     printf("Surface Area of the cylinder = %.2f\n", surfaceArea);
 
     return 0;
+
 }
