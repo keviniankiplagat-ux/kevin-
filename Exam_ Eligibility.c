@@ -1,3 +1,8 @@
+/*
+    Name: kevin ian kiplagat
+Reg no:PA106/G/28724/25
+    Description:program thst check if a student is eligble for final exam
+*/
 #include <stdio.h>
 int main() {
     float attendance, avg_marks;
@@ -17,3 +22,4 @@ int main() {
 
     return 0;
 }
+
