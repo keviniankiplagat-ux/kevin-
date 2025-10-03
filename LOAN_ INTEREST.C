@@ -1,3 +1,8 @@
+/*
+Name:kevin ian kiplagat
+Reg no:PA106/G/28724/25
+Description:proram that  diplay if a customer qualify for a loan
+*/
 # include<stdio.h>
 int main(){
 int age;	
@@ -14,3 +19,4 @@ printf("unfortunately we are not able to offer you loan at this time");
 }
 return 0;
 }
+
