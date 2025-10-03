@@ -1,5 +1,9 @@
+/*
+	Name:kevin ian kiplagat
+Reg no: PAA106/G/28724/25
+	Description:progam that display  the total bill in kes
+*/
 #include <stdio.h>
-
 int main() {
     int units;
     float bill;
@@ -19,5 +23,6 @@ int main() {
 
     return 0;
 }
+
 
 
