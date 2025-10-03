@@ -1,5 +1,9 @@
+/*
+	Name:kevin ian kiplagat
+Reg No:PA106/G/28724/25
+	Description:program to display mobile data purchase
+*/
 #include <stdio.h>
-
 int main() {
     int choice; printf("Mobile Data Bundle Purchase\n");
     printf("1. 100 MB - KES 50\n");
@@ -32,3 +36,4 @@ int main() {
 
     return 0;
 }
+
