@@ -1,4 +1,9 @@
-#include<stdio.h>
+/*
+    Name:kevin ian kiplagat
+Reg No:PA106/G/28724/25
+    Description:program to display units for semester one
+*/
+    #include<stdio.h>
 int main()
 {
     printf("SPM2100 Discrete mathematics\n");
@@ -11,3 +16,4 @@ int main()
  
     return 0;
 }
+
